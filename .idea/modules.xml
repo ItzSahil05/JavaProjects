@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects_beginner/Loops/Loops.iml" filepath="$PROJECT_DIR$/Projects_beginner/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods or Functions/Methods or Functions.iml" filepath="$PROJECT_DIR$/Methods or Functions/Methods or Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern Printing/Pattern Printing.iml" filepath="$PROJECT_DIR$/Pattern Printing/Pattern Printing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects_beginner/Projects_beginner.iml" filepath="$PROJECT_DIR$/Projects_beginner/Projects_beginner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Simple Programs.iml" filepath="$PROJECT_DIR$/.idea/Simple Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searching and sorting/searching and sorting.iml" filepath="$PROJECT_DIR$/searching and sorting/searching and sorting.iml" />
+    </modules>
+  </component>
+</project>
